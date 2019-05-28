@@ -13,3 +13,5 @@
 风樯动，龟蛇静
 
 GPL
+
+this modification is pointed by dev
