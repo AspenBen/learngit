@@ -1,5 +1,19 @@
+：：
 需要将github上的profile选项中的公共邮箱设置为建立仓库连接时的邮箱 就是zhangb2015@lzu.edu.cn
 
-
+：：
 在learngit下再创建一个仓库是可以的
 并且可查看 即仓库套仓库是可以的！
+
+：：分支操作
+查看分支：git branch
+
+创建分支：git branch <name>
+
+切换分支：git checkout <name>
+
+创建+切换分支：git checkout -b <name>
+
+合并某分支到当前分支：git merge <name>
+
+删除分支：git branch -d <name>
