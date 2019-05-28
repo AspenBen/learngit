@@ -1,1 +1,5 @@
 需要将github上的profile选项中的公共邮箱设置为建立仓库连接时的邮箱 就是zhangb2015@lzu.edu.cn
+
+
+在learngit下再创建一个仓库是可以的
+并且可查看 即仓库套仓库是可以的！
