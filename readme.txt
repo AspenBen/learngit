@@ -15,3 +15,5 @@
 GPL
 
 this modification is pointed by dev
+
+Creating a branch is quick and simple
